@@ -1,31 +1,31 @@
-iata,name,city,state,country,latitude,longitude
-00M,Thigpen,Bay Springs,MS,USA,31.95376472,-89.23450472
-00R,Livingston Municipal,Livingston,TX,USA,30.68586111,-95.01792778
-00V,Meadow Lake,Colorado Springs,CO,USA,38.94574889,-104.5698933
-01G,Perry-Warsaw,Perry,NY,USA,42.74134667,-78.05208056
-01J,Hilliard Airpark,Hilliard,FL,USA,30.6880125,-81.90594389
-01M,Tishomingo County,Belmont,MS,USA,34.49166667,-88.20111111
-02A,Gragg-Wade,Clanton,AL,USA,32.85048667,-86.61145333
-02C,Capitol,Brookfield,WI,USA,43.08751,-88.17786917
-02G,Columbiana County,East Liverpool,OH,USA,40.67331278,-80.64140639
-03D,Memphis Memorial,Memphis,MO,USA,40.44725889,-92.22696056
-04M,Calhoun County,Pittsboro,MS,USA,33.93011222,-89.34285194
-04Y,Hawley Municipal,Hawley,MN,USA,46.88384889,-96.35089861
-05C,Griffith-Merrillville,Griffith,IN,USA,41.51961917,-87.40109333
-05F,Gatesville - City/County,Gatesville,TX,USA,31.42127556,-97.79696778
-05U,Eureka,Eureka,NV,USA,39.60416667,-116.0050597
-06A,Moton  Municipal,Tuskegee,AL,USA,32.46047167,-85.68003611
-06C,Schaumburg,Chicago/Schaumburg,IL,USA,41.98934083,-88.10124278
-06D,Rolla Municipal,Rolla,ND,USA,48.88434111,-99.62087694
-06M,Eupora Municipal,Eupora,MS,USA,33.53456583,-89.31256917
-06N,Randall,Middletown,NY,USA,41.43156583,-74.39191722
-06U,Jackpot/Hayden,Jackpot,NV,USA,41.97602222,-114.6580911
-07C,Dekalb County,Auburn,IN,USA,41.30716667,-85.06433333
-07F,Gladewater Municipal,Gladewater,TX,USA,32.52883861,-94.97174556
-07G,Fitch H Beach,Charlotte,MI,USA,42.57450861,-84.81143139
-07K,Central City Municipal,Central City,NE,USA,41.11668056,-98.05033639
-08A,Wetumpka Municipal,Wetumpka,AL,USA,32.52943944,-86.32822139
-08D,Stanley Municipal,Stanley,ND,USA,48.30079861,-102.4063514
-08K,Harvard State,Harvard,NE,USA,40.65138528,-98.07978667
-08M,Carthage-Leake County,Carthage,MS,USA,32.76124611,-89.53007139
-09A,Butler-Choctaw County,Butler,AL,USA,32.11931306,-88.1274625
+id, name, status, latitude, longitude
+0, 186.209.207.129, heaty, 42.8188, -67.4877
+1, 3.177.106.127, critical, 43.6857, -124.1057
+2, 172.5.97.1, heaty, 41.8520, -119.4675
+3, 119.168.222.216, heaty, 40.7223, -71.4142
+4, 209.61.154.129, critical, 25.3926, -107.8093
+5, 123.165.225.227, heaty, 29.8479, -122.6298
+6, 198.79.62.11, heaty, 31.9982, -85.3459
+7, 4.12.209.83, heaty, 45.1408, -73.1029
+8, 112.69.72.97, critical, 28.2643, -78.2747
+9, 80.221.176.252, critical, 44.1302, -111.9332
+10, 188.192.210.170, heaty, 34.3024, -72.1661
+11, 160.40.51.243, critical, 33.5739, -114.4841
+12, 159.30.224.73, heaty, 38.6904, -116.4323
+13, 227.167.195.243, critical, 41.5738, -67.6666
+14, 34.115.182.218, critical, 41.5648, -124.8260
+15, 66.178.160.188, critical, 24.5879, -119.2219
+16, 176.172.214.222, critical, 28.3288, -100.5584
+17, 114.104.202.229, heaty, 32.9294, -121.7589
+18, 254.192.176.206, heaty, 35.3468, -96.8020
+19, 95.101.120.76, critical, 37.2791, -99.1292
+20, 139.120.239.134, heaty, 28.6676, -75.7361
+21, 195.203.63.51, heaty, 37.1960, -93.9288
+22, 163.185.179.2, heaty, 38.1366, -90.5526
+23, 213.109.75.173, critical, 37.6959, -77.3030
+24, 89.91.180.35, heaty, 40.8679, -101.6698
+25, 46.40.88.159, critical, 37.9909, -73.8577
+26, 44.141.138.28, heaty, 45.5003, -79.7480
+27, 168.166.133.26, critical, 43.1700, -77.2793
+28, 250.242.181.65, critical, 41.5467, -104.4929
+29, 125.223.174.209, heaty, 31.7432, -114.9556
