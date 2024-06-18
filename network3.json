@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {"name": "192.0.0.0", "status": "normal", "index": 0, "description": "Router"},
+    {"name": "224.177.10.127", "status": "normal", "index": 1, "description": "PC"},
+    {"name": "224.177.11.181", "status": "normal", "index": 2, "description": "PC"},
+    {"name": "224.177.9.142", "status": "normal", "index": 3, "description": "Web Server"},
+    {"name": "224.177.10.125", "status": "normal", "index": 4, "description": "PC"},
+    {"name": "224.177.11.178", "status": "normal", "index": 5, "description": "Mail Server"},
+    {"name": "224.177.9.141", "status": "normal", "index": 6, "description": "PC"},
+    {"name": "224.177.9.140", "status": "critical", "index": 7, "description": "Local Switch"},
+    {"name": "224.177.10.124", "status": "normal", "index": 8, "description": "PC"},
+    {"name": "123.123.123.123", "status": "normal", "index": 9, "description": "External Network"}
+  ],
+  "links": [
+    {"source": 0, "target": 1, "value": 3},
+    {"source": 0, "target": 3, "value": 1},
+    {"source": 0, "target": 4, "value": 2},
+    {"source": 0, "target": 5, "value": 3},
+    {"source": 0, "target": 7, "value": 5},
+    {"source": 0, "target": 9, "value": 4},
+    {"source": 1, "target": 2, "value": 1},
+    {"source": 1, "target": 3, "value": 1},
+    {"source": 1, "target": 9, "value": 3},
+    {"source": 2, "target": 6, "value": 1},
+    {"source": 2, "target": 7, "value": 4},
+    {"source": 3, "target": 4, "value": 1},
+    {"source": 3, "target": 5, "value": 3},
+    {"source": 3, "target": 7, "value": 1},
+    {"source": 3, "target": 8, "value": 2},
+    {"source": 3, "target": 9, "value": 2},
+    {"source": 4, "target": 7, "value": 2},
+    {"source": 4, "target": 8, "value": 2},
+    {"source": 5, "target": 8, "value": 2},
+    {"source": 5, "target": 9, "value": 4},
+    {"source": 6, "target": 5, "value": 1},
+    {"source": 6, "target": 9, "value": 1},
+    {"source": 7, "target": 6, "value": 3},
+    {"source": 8, "target": 7, "value": 2},
+    {"source": 8, "target": 9, "value": 3}
+]
+
+}
+
