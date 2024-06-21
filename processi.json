@@ -3,21 +3,21 @@
         "Process name": "Process1",
         "user": "User1",
         "ID": 1234,
-        "%RAM": 2.5,
+        "%CPU": 2.5,
         "%Memory": 1.5
     },
     {
         "Process name": "Process2",
         "user": "User2",
         "ID": 5678,
-        "%RAM": 3.0,
+        "%CPU": 3.0,
         "%Memory": 2.0
     },
     {
         "Process name": "Process3",
         "user": "User3",
         "ID": 9101,
-        "%RAM": 1.5,
+        "%CPU": 1.5,
         "%Memory": 0.8
     }
 ]
