@@ -1,24 +1,5 @@
 [
-    {
-        "Process name": "Process1",
-        "user": "User1",
-        "ID": 1234,
-        "%CPU": 2.5,
-        "%Memory": 1.5
-    },
-    {
-        "Process name": "Process2",
-        "user": "User2",
-        "ID": 5678,
-        "%CPU": 3.0,
-        "%Memory": 2.0
-    },
-    {
-        "Process name": "Process3",
-        "user": "User3",
-        "ID": 9101,
-        "%CPU": 1.5,
-        "%Memory": 0.8
-    }
+  {"Process name": "Process1", "User": "User1", "ID": 101, "%CPU": 20, "%Memory": 30},
+  {"Process name": "Process2", "User": "User2", "ID": 102, "%CPU": 10, "%Memory": 40},
+  {"Process name": "Process3", "User": "User3", "ID": 103, "%CPU": 30, "%Memory": 20}
 ]
-
