@@ -1,14 +1,14 @@
 {
   "nodes": [
-    { "name": "224.177.10.127", "status": "normal", "index": 1, "description": "PC",          "x": 65, "y": 105 },
-    { "name": "224.177.11.181", "status": "normal", "index": 2, "description": "PC",          "x": 305, "y": 105 },
-    { "name": "224.177.9.142", "status": "normal", "index": 3, "description": "Web Server",   "x": 360, "y": 225 },
-    { "name": "224.177.10.125", "status": "critical", "index": 4, "description": "PC",        "x": 185, "y": 400 },
-    { "name": "192.0.0.0", "status": "normal", "index": 0, "description": "Router",           "x": 185, "y": 225 },
-    { "name": "224.177.11.178", "status": "normal", "index": 5, "description": "Mail Server", "x": 10, "y": 225 },
-    { "name": "224.177.9.141", "status": "normal", "index": 6, "description": "PC",           "x": 65, "y": 345 },
-    { "name": "224.177.9.140", "status": "normal", "index": 7, "description": "Local Switch", "x": 185, "y": 50 },
-    { "name": "224.177.10.124", "status": "normal", "index": 8, "description": "PC",          "x": 305, "y": 345 }
+    { "name": "224.177.10.127", "status": "normal", "index": 1, "description": "PC",          "x": 60, "y": 105 },
+    { "name": "224.177.11.181", "status": "normal", "index": 2, "description": "PC",          "x": 300, "y": 105 },
+    { "name": "224.177.9.142", "status": "normal", "index": 3, "description": "Web Server",   "x": 355, "y": 225 },
+    { "name": "224.177.10.125", "status": "critical", "index": 4, "description": "PC",        "x": 180, "y": 400 },
+    { "name": "192.0.0.0", "status": "normal", "index": 0, "description": "Router",           "x": 180, "y": 225 },
+    { "name": "224.177.11.178", "status": "normal", "index": 5, "description": "Mail Server", "x": 5, "y": 225 },
+    { "name": "224.177.9.141", "status": "normal", "index": 6, "description": "PC",           "x": 60, "y": 345 },
+    { "name": "224.177.9.140", "status": "normal", "index": 7, "description": "Local Switch", "x": 180, "y": 50 },
+    { "name": "224.177.10.124", "status": "normal", "index": 8, "description": "PC",          "x": 300, "y": 345 }
 
   ],
   "links": [
