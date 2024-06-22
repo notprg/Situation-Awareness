@@ -1,0 +1,4 @@
+Process name,user,ID,%RAM,%Memory
+Process1,User1,1234,2.5,1.5
+Process2,User2,5678,3.0,2.0
+Process3,User3,9101,1.5,0.8

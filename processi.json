@@ -1,0 +1,5 @@
+[
+  {"Process name": "Process1", "User": "User1", "ID": 101, "%CPU": 20, "%Memory": 30},
+  {"Process name": "Process2", "User": "User2", "ID": 102, "%CPU": 10, "%Memory": 40},
+  {"Process name": "Process3", "User": "User3", "ID": 103, "%CPU": 30, "%Memory": 20}
+]
