@@ -2,7 +2,7 @@
   "nodes": [
     { "name": "224.177.10.127", "status": "normal", "index": 1, "description": "PC",          "x": 60, "y": 105 },
     { "name": "224.177.11.181", "status": "normal", "index": 2, "description": "PC",          "x": 300, "y": 105 },
-    { "name": "224.177.9.142", "status": "normal", "index": 3, "description": "Web Server",   "x": 355, "y": 205 },
+    { "name": "224.177.9.142", "status": "normal", "index": 3, "description": "Web Server",   "x": 335, "y": 225 },
     { "name": "224.177.10.125", "status": "critical", "index": 4, "description": "PC",        "x": 180, "y": 400 },
     { "name": "192.0.0.0", "status": "normal", "index": 0, "description": "Router",           "x": 180, "y": 225 },
     { "name": "224.177.11.178", "status": "normal", "index": 5, "description": "Mail Server", "x": 5, "y": 225 },
